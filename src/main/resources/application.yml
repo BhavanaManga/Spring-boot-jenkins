@@ -1,0 +1,2 @@
+create  table if not exists product(
+product_idint primary key AUTO_INCREMENT
